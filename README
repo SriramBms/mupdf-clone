@@ -1,3 +1,7 @@
+RUN
+git submodule update --init
+
+
 ABOUT
 
 MuPDF is a lightweight PDF, XPS, EPUB and CBZ viewer and parser/rendering
